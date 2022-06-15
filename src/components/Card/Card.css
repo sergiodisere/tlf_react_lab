@@ -1,0 +1,22 @@
+.card {  
+    position:relative;
+}
+.card-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button-likes {
+    background: red;
+    color: red;
+}
+.card-content{
+    padding:0px 16px 16px 16px;
+}
+
+.comments {
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+

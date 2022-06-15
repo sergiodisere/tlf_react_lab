@@ -1,0 +1,19 @@
+header {
+   display: flex;
+   flex-direction: row;
+   align-content: center;
+   align-items: center;
+   justify-content: space-between;
+   padding: 0px 15px 0px 15px;
+   background-color: #f5f5f5;
+   box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.logo {
+    margin: auto;
+}
+
+.nameComp {
+    display: flex;
+    text-decoration: none;
+    color: black
+}
